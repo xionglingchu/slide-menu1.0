@@ -70,6 +70,10 @@ Libraries, Parking on campus and Centre for Sports and Exercise
 ####    5.6.6 Useful Link
 
 
+## 6 Authors
+Min Lin, 3035561522
+Shui mon sum, 3035011333
+Lingchu Xiong, 3033072888
 
 
 

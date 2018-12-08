@@ -5,14 +5,14 @@ In order to let more students know our programme, we develop this iOS applicatio
 
 
 
-## 1 Develop Language and Environment""
+## 1 Develop Language and Environment
 Swift 4, Xcode 10.1
 
 ## 2 Minimum Version
 iOS 12.0 or higher 
 
 ## 3 Content
-###   3.1 About
+###  &nbsp 3.1 About
 ####    3.1.1 Faculty 
 You can go through all the faculty staff from this view. The information of each techer is showed in the form of card.
 ####    3.1.2 Message from Director

@@ -27,7 +27,7 @@ Include two parts: Eligibility and English Language Proficiency Requirement
 You can know the whole process of online application 
 ####    3.2.3 Composition Fees
 ####    3.2.4 Words from Students and Graduates
-Some of our students and graduates would like to share their experience with you.
+Some of our students and graduates would like to share their experience with you
 ####    3.2.5 Information Sessions
 You will know more details of our information session such as the date, time and venue.
 ####    3.2.6 FAQ
